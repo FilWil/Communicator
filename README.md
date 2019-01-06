@@ -1,2 +1,3 @@
-# ASP.NET-Project
-Projekt zaliczeniowy z przedmiotu Programowanie w ASP.NET
+# ASP.NET Core
+
+Chat communicator made in ASP.NET Core with React and SignalR library.
